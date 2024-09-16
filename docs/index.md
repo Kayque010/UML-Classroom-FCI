@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*Sistema Pizza-Express*
 </center></font>
 
 **Conteúdo**
@@ -35,19 +35,19 @@
 *&lt;Descrição dos requisitos&gt;*
 
 *&lt;Requisitos funcionais&gt;*
-*&lt;1° Criar sistema que possua integração entre a central e as lojas; &gt;*
-*&lt;2° Criar um Cardápio online que receba a localização do cliente primariamente;&gt;*
-*&lt;3° Calcular a loja e consequente rota mais otimizada para o cliente;&gt;*
-*&lt;4° Armazenar a rota para uso caso seja efetivado o pedido;&gt;*
-*&lt;5° Enviar um "sinal" para a loja escolhida e deixá-la de sobreaviso;&gt;*
-*&lt;6° Encerrar o processo caso a operação não seja efetivada.&gt;*
-*&lt;7° Sendo efetivado o pedido, envia-lo através do sistema para os computadores da loja avisando os responsáveis pelo preparo, e o entregador;&gt;*
-*&lt;8° Enviar a rota que foi calculada e armazenada para o entregador.&gt;*
+*1° Criar sistema que possua integração entre a central e as lojas;*
+*2° Criar um Cardápio online que receba a localização do cliente primariamente;*
+*3° Calcular a loja e consequente rota mais otimizada para o cliente;*
+*4° Armazenar a rota para uso caso seja efetivado o pedido;*
+*5° Enviar um "sinal" para a loja escolhida e deixá-la de sobreaviso;*
+*6° Encerrar o processo caso a operação não seja efetivada.*
+*7° Sendo efetivado o pedido, envia-lo através do sistema para os computadores da loja avisando os responsáveis pelo preparo, e o entregador;*
+*8° Enviar a rota que foi calculada e armazenada para o entregador.*
 
-*&lt;Requisitos não-funcionais&gt;*
-*&lt;1° Não armazenar dados de clientes que não efetivaram pedidos;&gt;*
-*&lt;2° Cuidado no tratamento dos dados de localização, nome, e todos os demais dados pessoais dos clientes que efetivarem os pedidos;&gt;*
-*&lt;3° Ambiente de pagamento ágil e seguro;&gt;*
+*Requisitos não-funcionais*
+*1° Não armazenar dados de clientes que não efetivaram pedidos;*
+*2° Cuidado no tratamento dos dados de localização, nome, e todos os demais dados pessoais dos clientes que efetivarem os pedidos;*
+*3° Ambiente de pagamento ágil e seguro;*
 
 # Diagrama de Atividades
 
