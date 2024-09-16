@@ -29,7 +29,7 @@
 
 # Descrição do Projeto
 
-*&lt;O projeto visa desenvolver um sistema que otimize o processo de recebimento e entrega de pizzas em um estabelecimento que tem perdido clientes por conta de um concorrente que consegue entregar com maior velocidade.&gt;*
+*O projeto visa desenvolver um sistema que otimize o processo de recebimento e entrega de pizzas em um estabelecimento que tem perdido clientes por conta de um concorrente que consegue entregar com maior velocidade.*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
