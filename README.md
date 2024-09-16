@@ -1,13 +1,13 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Sistema Pizza-Express*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *Kayque Matias Ferreira*
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+*O projeto visa desenvolver um sistema que otimize o processo de recebimento e entrega de pizzas em um estabelecimento que tem perdido clientes por conta de um concorrente que consegue entregar com maior velocidade.*
 
 # Documentação
 
