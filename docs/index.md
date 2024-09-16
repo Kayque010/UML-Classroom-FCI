@@ -29,10 +29,25 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;O projeto visa desenvolver um sistema que otimize o processo de recebimento e entrega de pizzas em um estabelecimento que tem perdido clientes por conta de um concorrente que consegue entregar com maior velocidade.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
+
+*&lt;Requisitos funcionais&gt;*
+*&lt;1° Criar sistema que possua integração entre a central e as lojas; &gt;*
+*&lt;2° Criar um Cardápio online que receba a localização do cliente primariamente;&gt;*
+*&lt;3° Calcular a loja e consequente rota mais otimizada para o cliente;&gt;*
+*&lt;4° Armazenar a rota para uso caso seja efetivado o pedido;&gt;*
+*&lt;5° Enviar um "sinal" para a loja escolhida e deixá-la de sobreaviso;&gt;*
+*&lt;6° Encerrar o processo caso a operação não seja efetivada.&gt;*
+*&lt;7° Sendo efetivado o pedido, envia-lo através do sistema para os computadores da loja avisando os responsáveis pelo preparo, e o entregador;&gt;*
+*&lt;8° Enviar a rota que foi calculada e armazenada para o entregador.&gt;*
+
+*&lt;Requisitos não-funcionais&gt;*
+*&lt;1° Não armazenar dados de clientes que não efetivaram pedidos;&gt;*
+*&lt;2° Cuidado no tratamento dos dados de localização, nome, e todos os demais dados pessoais dos clientes que efetivarem os pedidos;&gt;*
+*&lt;3° Ambiente de pagamento ágil e seguro;&gt;*
 
 # Diagrama de Atividades
 
