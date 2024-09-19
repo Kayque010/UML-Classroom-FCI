@@ -51,7 +51,7 @@
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.
+*&lt;
 ![Diagrama de Atividade drawio](https://github.com/user-attachments/assets/68f48b1e-4646-4c46-a5bc-e4ab8611d512)
 &gt;*
 
