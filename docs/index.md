@@ -51,9 +51,7 @@
 
 # Diagrama de Atividades
 
-*&lt;
 ![Diagrama de Atividade drawio](https://github.com/user-attachments/assets/68f48b1e-4646-4c46-a5bc-e4ab8611d512)
-&gt;*
 
 # Diagrama de Casos de Uso
 
