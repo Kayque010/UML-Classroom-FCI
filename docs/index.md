@@ -34,16 +34,38 @@
 # Análise de Requisitos Funcionais e Não-Funcionais
 
 
-**Requisitos funcionais**
-* Criar um Cardápio online que receba a localização do cliente primariamente;
-* Calcular a loja e consequente rota mais otimizada para o cliente;
-* Armazenar a rota para uso caso seja efetivado o pedido;
-* Enviar um "sinal" para a loja escolhida e deixá-la de sobreaviso;
-* Encerrar o processo caso a operação não seja efetivada.
-* Sendo efetivado o pedido, envia-lo através do sistema para os computadores da loja avisando os responsáveis pelo preparo, e o entregador;
-* Enviar a rota que foi calculada e armazenada para o entregador.
+**Requisitos Funcionais**
 
-**Requisitos não-funcionais**
+**Cardápio Online**
+
+* Solicitar endereço do cliente;
+* Consultar produtos
+* Adicionar produtos ao carrinho
+* Retirar produtos do carrinho
+* Finalizar pedido
+* Cancelar pedido
+* Cadastrar dados do cliente no sistema
+* Informar nome do responsável pelo pedido
+* Escolher forma de pagamento
+
+**Central**
+
+* Receber endereço do cliente
+* Calcular loja mais próxima do endereço informado
+* Aguardar efetivação do pedido
+* Enviar o pedido para loja escolhida quando pedido for efetivado
+* Finalizar processo e apagar dados de localização se pedido não for efetuado
+* Salvar dados cadastrais do cliente se o pedido for efetivado
+
+**Loja**
+
+* Recber ordem de pedido da central
+* Informar o sistema da cozinha para preparação
+* Enviar endereço para entregador
+* enviar para entrega
+* Dar baixa como entregue no pedido
+
+**Requisitos Não Funcionais**
 * Não armazenar dados de clientes que não efetivaram pedidos;
 * Cuidado no tratamento dos dados de localização, nome, e todos os demais dados pessoais dos clientes que efetivarem os pedidos;
 * Ambiente de pagamento ágil e seguro;
