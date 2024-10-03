@@ -80,7 +80,9 @@ minutos;
 
 # Diagrama de Casos de Uso
 
-![Diagrama de Casos de uso - Cardápio online drawio](https://github.com/user-attachments/assets/f15f9f8f-4b66-44d8-8c83-9ffc039123ec)
+
+
+[Uploading Diagrama de Casos de uso - Cardápio online.drawio…]()
 
 
 ![Diagrama de casos de uso - Central de pedidos drawio](https://github.com/user-attachments/assets/3f5212d8-b0bc-4396-9642-1f2756232e10)
