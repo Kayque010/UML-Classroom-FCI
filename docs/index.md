@@ -81,7 +81,8 @@ minutos;
 # Diagrama de Casos de Uso
 
 
-[Uploading Diagrama de Atividade.drawio.html…]()
+![image](https://github.com/user-attachments/assets/d08aba4e-959f-4f51-a4bf-da137e7206e3)
+
 
 
 # Descrição dos Casos de Uso
