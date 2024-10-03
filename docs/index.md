@@ -29,14 +29,14 @@
 
 # Descrição do Projeto
 
-*O projeto visa desenvolver um sistema que otimize o processo de recebimento e entrega de pizzas em um estabelecimento que tem perdido clientes por conta de um concorrente que consegue entregar com maior velocidade.*
+*O projeto visa desenvolver um sistema que otimize o processo de recebimento e entrega de pizzas em um estabelecimento que tem perdido clientes por conta de um concorrente que consegue entregar com maior velocidade. A ideia é utilizar automação em todo o processo desde o momento do recebimento do pedido, cálculo da loja mais próxima do cliente, automação no preparo e envio e, consequentemente maior agilidade e qualidade na entrega para o cliente.*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 
 
 ## Requisitos Funcionais ##
 
-**Cardápio Online**
+**Cardápio Online:**
 
 * Solicitar endereço do cliente;
 * Consultar produtos
@@ -48,7 +48,7 @@
 * Informar nome do responsável pelo pedido
 * Escolher forma de pagamento
 
-**Central**
+**Central:**
 
 * Receber endereço do cliente
 * Calcular loja mais próxima do endereço informado
@@ -57,7 +57,7 @@
 * Finalizar processo e apagar dados de localização se pedido não for efetuado
 * Salvar dados cadastrais do cliente se o pedido for efetivado
 
-**Loja**
+**Loja:**
 
 * Recber ordem de pedido da central
 * Informar o sistema da cozinha para preparação
@@ -80,18 +80,12 @@ minutos;
 
 # Diagrama de Casos de Uso
 
-![image](https://github.com/user-attachments/assets/6e7cc80c-e90a-4f51-ae13-ebeb5deff80b)
-
-
-![image](https://github.com/user-attachments/assets/874ca3e3-c37f-4675-a207-4798b17a43ef)
-
-
-![image](https://github.com/user-attachments/assets/5269cb40-76d7-42cf-86e2-387eefc14a74)
+[Pizza Express - Casos de uso.pdf](https://github.com/user-attachments/files/17249216/Pizza.Express.-.Casos.de.uso.pdf)
 
 
 # Descrição dos Casos de Uso
 
-[Descrição dos casos de uso.pdf](https://github.com/user-attachments/files/17248931/Descricao.dos.casos.de.uso.pdf)
+[Pizza Express - Descrição dos casos de uso.pdf](https://github.com/user-attachments/files/17249219/Pizza.Express.-.Descricao.dos.casos.de.uso.pdf)
 
 
 # Diagrama de Sequência
