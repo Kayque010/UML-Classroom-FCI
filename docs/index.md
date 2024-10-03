@@ -81,14 +81,7 @@ minutos;
 # Diagrama de Casos de Uso
 
 
-
-[Uploading Diagrama de Casos de uso - Cardápio online.drawio…]()
-
-
-![Diagrama de casos de uso - Central de pedidos drawio](https://github.com/user-attachments/assets/3f5212d8-b0bc-4396-9642-1f2756232e10)
-
-
-![Diagrama de casos de uso - Sistema da loja drawio](https://github.com/user-attachments/assets/d642e97b-2c47-4460-9017-929b38af2b87)
+[Uploading Diagrama de Atividade.drawio.html…]()
 
 
 # Descrição dos Casos de Uso
