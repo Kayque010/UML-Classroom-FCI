@@ -80,7 +80,14 @@ minutos;
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Diagrama de Casos de uso - Cardápio online drawio](https://github.com/user-attachments/assets/f15f9f8f-4b66-44d8-8c83-9ffc039123ec)
+
+
+![Diagrama de casos de uso - Central de pedidos drawio](https://github.com/user-attachments/assets/3f5212d8-b0bc-4396-9642-1f2756232e10)
+
+
+![Diagrama de casos de uso - Sistema da loja drawio](https://github.com/user-attachments/assets/d642e97b-2c47-4460-9017-929b38af2b87)
+
 
 # Descrição dos Casos de Uso
 
