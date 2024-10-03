@@ -81,7 +81,8 @@ minutos;
 # Diagrama de Casos de Uso
 
 
-![image](https://github.com/user-attachments/assets/d08aba4e-959f-4f51-a4bf-da137e7206e3)
+
+![file](https://github.com/user-attachments/assets/cb7465be-24c1-4788-80c7-a0abbd491163)
 
 
 
