@@ -91,7 +91,8 @@ minutos;
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+[Descrição dos casos de uso.pdf](https://github.com/user-attachments/files/17248931/Descricao.dos.casos.de.uso.pdf)
+
 
 # Diagrama de Sequência
 
