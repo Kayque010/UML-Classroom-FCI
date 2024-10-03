@@ -1,4 +1,4 @@
-![Diagrama de Casos de uso - Cardápio online drawio](https://github.com/user-attachments/assets/6dfffd5d-3061-4a01-98df-fccc7eeeadca)<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
+<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
@@ -34,7 +34,7 @@
 # Análise de Requisitos Funcionais e Não-Funcionais
 
 
-**Requisitos Funcionais**
+## Requisitos Funcionais ##
 
 **Cardápio Online**
 
@@ -65,7 +65,7 @@
 * enviar para entrega
 * Dar baixa como entregue no pedido
 
-**Requisitos Não Funcionais**
+## Requisitos Não Funcionais ##
 * Não armazenar dados de clientes que não efetivaram pedidos;
 * Cuidado no tratamento dos dados de localização, nome, e todos os demais dados pessoais dos clientes que efetivarem os pedidos;
 * Ambiente de pagamento ágil e seguro;
@@ -79,13 +79,14 @@ minutos;
 ![Diagrama de Atividade drawio](https://github.com/user-attachments/assets/68f48b1e-4646-4c46-a5bc-e4ab8611d512)
 
 # Diagrama de Casos de Uso
-cardapio online
+
 ![image](https://github.com/user-attachments/assets/6e7cc80c-e90a-4f51-ae13-ebeb5deff80b)
 
 
-sistema loja
-![image](https://github.com/user-attachments/assets/c430b3bb-eb24-492e-a737-dad5e11b3ef8)
+![image](https://github.com/user-attachments/assets/874ca3e3-c37f-4675-a207-4798b17a43ef)
 
+
+![image](https://github.com/user-attachments/assets/5269cb40-76d7-42cf-86e2-387eefc14a74)
 
 
 # Descrição dos Casos de Uso
