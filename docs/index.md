@@ -76,7 +76,8 @@ minutos;
 
 # Diagrama de Atividades
 
-![Diagrama de Atividade drawio](https://github.com/user-attachments/assets/68f48b1e-4646-4c46-a5bc-e4ab8611d512)
+[Diagrama de Atividades.pdf](https://github.com/user-attachments/files/17951939/Diagrama.de.Atividades.pdf)
+
 
 # Diagrama de Casos de Uso
 
@@ -87,23 +88,29 @@ minutos;
 
 [Pizza Express - Descrição dos casos de uso.pdf](https://github.com/user-attachments/files/17249219/Pizza.Express.-.Descricao.dos.casos.de.uso.pdf)
 
-
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+[Diagrama de Sequencia.pdf](https://github.com/user-attachments/files/17951942/Diagrama.de.Sequencia.pdf)
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+[Diagrama de Classes.pdf](https://github.com/user-attachments/files/17951947/Diagrama.de.Classes.pdf)
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+[Diagrama de Estados.pdf](https://github.com/user-attachments/files/17951951/Diagrama.de.Estados.pdf)
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+[Diagrama de Implantação.pdf](https://github.com/user-attachments/files/17951952/Diagrama.de.Implantacao.pdf)
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+**__SOMMERVILLE, Ian. Engenharia de software. 10. ed. São Paulo, SP: Pearson, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 28 nov. 2024.**__
+
+**__Engenharia de software: uma abordagem profissional Roger S. Pressman, Bruce R. Maxim; – 9. ed. – Porto Alegre: AMGH, 2021.**__
+
+**__Utilizando UML e padrões : uma introdução à análise e
+ao projeto orientados a objetos e ao desenvolvimento iterativo / Craig Larman – 3. ed. – Porto Alegre : Bookman, 2007**__
+
+ **__UML essencial: um breve guia para a linguagem-padrão de modelagem de objetos / Martin Fowler – 3.ed. – Porto Alegre: Bookman, 2005.**__
