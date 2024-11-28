@@ -106,11 +106,11 @@ minutos;
 
 # Referências
 
-**__SOMMERVILLE, Ian. Engenharia de software. 10. ed. São Paulo, SP: Pearson, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 28 nov. 2024.**__
+__SOMMERVILLE, Ian. Engenharia de software. 10. ed. São Paulo, SP: Pearson, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 28 nov. 2024.__
 
-**__Engenharia de software: uma abordagem profissional Roger S. Pressman, Bruce R. Maxim; – 9. ed. – Porto Alegre: AMGH, 2021.**__
+__Engenharia de software: uma abordagem profissional Roger S. Pressman, Bruce R. Maxim; – 9. ed. – Porto Alegre: AMGH, 2021.__
 
-**__Utilizando UML e padrões : uma introdução à análise e
-ao projeto orientados a objetos e ao desenvolvimento iterativo / Craig Larman – 3. ed. – Porto Alegre : Bookman, 2007**__
+__Utilizando UML e padrões : uma introdução à análise e
+ao projeto orientados a objetos e ao desenvolvimento iterativo / Craig Larman – 3. ed. – Porto Alegre : Bookman, 2007__
 
- **__UML essencial: um breve guia para a linguagem-padrão de modelagem de objetos / Martin Fowler – 3.ed. – Porto Alegre: Bookman, 2005.**__
+ __UML essencial: um breve guia para a linguagem-padrão de modelagem de objetos / Martin Fowler – 3.ed. – Porto Alegre: Bookman, 2005.__
